@@ -1,7 +1,7 @@
 <h1 align="center">Selam ben Alihan</h1>
 <h3 align="center">Newbie coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krzzx13&label=Profile%20views&color=0e75b6&style=flat" alt="krzzx13" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=krzzx13&label=Profile%20views&color=0e75b6&style=flat" alt="krzzx13" /> </p>
 
 - 🌱 I’m currently learning **C++**
 
